@@ -1,0 +1,9 @@
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\bin\Debug\netcoreapp2.1\Soccer.Common.deps.json
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\bin\Debug\netcoreapp2.1\Soccer.Common.dll
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\bin\Debug\netcoreapp2.1\Soccer.Common.pdb
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\obj\Debug\netcoreapp2.1\Soccer.Common.csprojAssemblyReference.cache
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\obj\Debug\netcoreapp2.1\Soccer.Common.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\obj\Debug\netcoreapp2.1\Soccer.Common.AssemblyInfo.cs
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\obj\Debug\netcoreapp2.1\Soccer.Common.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\obj\Debug\netcoreapp2.1\Soccer.Common.dll
+C:\Users\DANIEL\Desktop\SistemasInformacion2\Proyecto1\Soccer\Soccer.Common\obj\Debug\netcoreapp2.1\Soccer.Common.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer.Common", "Soccer.Common\Soccer.Common.csproj", "{CBAC1016-D3BE-48B2-BB4D-68ADD75AA579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer.Web", "Soccer.Web\Soccer.Web.csproj", "{16E02F9E-EDC8-4EFE-A560-242AA9B8CED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAC1016-D3BE-48B2-BB4D-68ADD75AA579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAC1016-D3BE-48B2-BB4D-68ADD75AA579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAC1016-D3BE-48B2-BB4D-68ADD75AA579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAC1016-D3BE-48B2-BB4D-68ADD75AA579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E02F9E-EDC8-4EFE-A560-242AA9B8CED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E02F9E-EDC8-4EFE-A560-242AA9B8CED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E02F9E-EDC8-4EFE-A560-242AA9B8CED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E02F9E-EDC8-4EFE-A560-242AA9B8CED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E98D67C-57AB-4FC6-880B-A2F1F959EBD9}
+	EndGlobalSection
+EndGlobal
